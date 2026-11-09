@@ -1,0 +1,13 @@
+# LabVIEW temporary and backup files
+*.lvlps
+*.aliases
+*~.vi
+*.tmp
+builds/
+
+# OS generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
